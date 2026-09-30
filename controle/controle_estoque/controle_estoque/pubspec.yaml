@@ -1,0 +1,28 @@
+name: controle_estoque
+description: App simples de controle de estoque com login (Flutter + SQLite)
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+# Dependências usadas no projeto
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Provider: serve para "avisar" a tela quando algo muda
+  provider: ^6.1.2
+
+  # Essas duas dependências são as que fazem o SQLite funcionar
+  # dentro do navegador (Google Chrome), usando o sqlite3.wasm
+  sqflite_common_ffi_web: ^0.4.5+3
+  sqflite_common: ^2.5.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

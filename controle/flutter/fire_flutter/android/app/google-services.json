@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261066492991",
+    "project_id": "central-de-admissoes",
+    "storage_bucket": "central-de-admissoes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261066492991:android:7d58dd094dcec176353c8a",
+        "android_client_info": {
+          "package_name": "com.example.fire_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyy4BeoLnW5bkScoOEl-7mvVrehgRErNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

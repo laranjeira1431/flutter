@@ -1,0 +1,3 @@
+[submodule "controle_estoque"]
+	path = controle_estoque
+	url = https://github.com/laranjeira1431/flutter.git

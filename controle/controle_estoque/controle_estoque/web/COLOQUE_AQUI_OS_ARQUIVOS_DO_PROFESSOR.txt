@@ -1,0 +1,14 @@
+IMPORTANTE:
+
+O upload dos arquivos "sqlite3.wasm" e "sqflite_sw.js" não veio junto
+desta conversa (são arquivos binários e não chegaram até mim).
+
+Copie os dois arquivos que o professor te passou para DENTRO desta
+pasta "web/", ficando assim:
+
+web/
+├── index.html
+├── sqlite3.wasm              <-- adicionar aqui
+└── sqflite_sw.js             <-- adicionar aqui
+
+Depois disso pode apagar este arquivo .txt, ele é só um lembrete.
